@@ -20,6 +20,7 @@ Here are some ideas to get you started:
     <img src="https://profile-counter.glitch.me/Sanskruti1601/count.svg"/>
 </h2>
 
+- 🧑🏻‍💻 I'm a UI/UX & Graphics Designer 
 - 🧑🏻‍💻 I'm a nub Frontend Developer documenting my work and projects @ via [GitHub](https://github.com/Sanskruti1601)
 - 🎒 I'm pursuing my studies as a AI/ML Engineering @ G.H.Raisoni (GHRCE)
 - 🌟 Love making interactive Designs 
@@ -66,19 +67,19 @@ Here are some ideas to get you started:
 <!-- Github Streaks -->
 <p align="center">
     <a href="https://git.io/streak-stats">
-      <img align="centre" src="https://streak-stats.demolab.com/?user=Akkhi05&theme=transparent&hide_border=true&border_radius=10" style="padding-bottom: 20px;"/>
+      <img align="centre" src="https://streak-stats.demolab.com/?user=Sanskruti1601&theme=transparent&hide_border=true&border_radius=10" style="padding-bottom: 20px;"/>
     </a>
 </p>
 <!--<img src="/assets/running.webp" align="right" height="204px"/>-->
 
 <!-- Github Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align=left src="https://github-readme-stats.vercel.app/api?username=Akkhi05&theme=transparent&show_icons=true&hide_border=true&border_radius=10"/>
+  <img align=left src="https://github-readme-stats.vercel.app/api?username=Sanskruti1601&theme=transparent&show_icons=true&hide_border=true&border_radius=10"/>
 </a>
 
 <!-- Most Used Languages -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akkhi05&theme=transparent&layout=compact&hide_border=true&border_radius=7.5"/>
+  <img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskruti1601&theme=transparent&layout=compact&hide_border=true&border_radius=7.5"/>
 </a>
 
 <!-- Waka Time Stats -->
